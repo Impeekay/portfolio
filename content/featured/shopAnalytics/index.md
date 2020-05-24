@@ -11,6 +11,7 @@ tech:
   - Node.js
   - React
   - Grafana
+  - ZMQ
 showInProjects: true
 ---
 

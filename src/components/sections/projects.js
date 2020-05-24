@@ -215,10 +215,13 @@ const Projects = ({ data }) => {
             })}
         </TransitionGroup>
       </StyledGrid>
-
-      <StyledMoreButton onClick={() => setShowMore(!showMore)}>
-        Show {showMore ? 'Less' : 'More'}
-      </StyledMoreButton>
+      {projectsToShow && projectsToShow.length !== 0 ? (
+        <StyledMoreButton onClick={() => setShowMore(!showMore)}>
+          Show {showMore ? 'Less' : 'More'}
+        </StyledMoreButton>
+      ) : (
+        ''
+      )}
     </StyledContainer>
   );
 };

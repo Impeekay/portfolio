@@ -6,8 +6,9 @@ module.exports = {
     'Pavan Kumar, Pavan, Kumar, impeekay, itspavan, software engineer, front-end engineer, web developer, javascript, bengaluru',
   siteUrl: 'https://itspavan.dev',
   siteLanguage: 'en_US',
-  googleAnalyticsID: 'UA-45666519-2',
-  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
+  googleAnalyticsID: 'UA-167473038-1',
+  //Google verifies domains of google domains on its own
+  // googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
   name: 'Pavan Kumar',
   location: 'Bengaluru, KA',
   email: 'hello@itspavan.dev',

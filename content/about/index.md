@@ -11,6 +11,7 @@ skills:
   - Node.js
   - IoT
   - Docker
+  - Docker Swarm
 ---
 
 Hello! I'm Pavan, a software engineer based in Bengaluru, KA.
@@ -19,4 +20,4 @@ I enjoy engineering things that adds value to the business, whether that be appl
 
 Will shortly graduate from [K.S Institute of Technology](https://www.ksit.ac.in/), But I've been a part of the engineering team at [Syook](https://www.syook.com/) where I work on a wide variety of interesting and meaningful projects on a daily basis (Post college hours.😇).
 
-Here are a few technologies I've been working with recently:
+Here are a few technologies I've worked on recently:
