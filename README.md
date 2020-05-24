@@ -11,7 +11,7 @@
   </a>
 </p>
 
-![demo](https://raw.githubusercontent.com/impeekay/portfolio/master/src/images/demo.png)
+![demo](https://raw.githubusercontent.com/impeekay/portfolio/master/src/images/web.png)
 
 ## 🚨 Forking this repo (please read!)
 
