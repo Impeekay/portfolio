@@ -147,5 +147,12 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-no-sourcemaps',
     },
+    {
+      resolve: 'gatsby-plugin-preact',
+    },
+    {
+      resolve: 'gatsby-plugin-webpack-size',
+      development: true,
+    },
   ],
 };
