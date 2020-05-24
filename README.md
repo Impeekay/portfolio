@@ -1,17 +1,9 @@
 <div align="center">
-  <img alt="Logo" src="https://raw.githubusercontent.com/bchiang7/v4/master/src/images/logo.png" width="100" />
+  <img alt="Logo" src="https://raw.githubusercontent.com/impeekay/portfolio/master/src/images/logo.png" width="100" />
 </div>
-<h1 align="center">
-  brittanychiang.com - v4
-</h1>
+<h1></h1>
 <p align="center">
-  The fourth iteration of <a href="https://brittanychiang.com" target="_blank">brittanychiang.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
-</p>
-<p align="center">
-  Previous iterations:
-  <a href="https://github.com/bchiang7/v1" target="_blank">v1</a>,
-  <a href="https://github.com/bchiang7/v2" target="_blank">v2</a>,
-  <a href="https://github.com/bchiang7/bchiang7.github.io" target="_blank">v3</a>
+  Website code for <a href="https://itspavan.dev" target="_blank">itspavan.dev</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>, Using the theme from <a href="https://github.com/bchiang7/v4" target="_blank">bchiang7</a>
 </p>
 <p align="center">
   <a href="https://app.netlify.com/sites/brittanychiang/deploys" target="_blank">
@@ -19,19 +11,13 @@
   </a>
 </p>
 
-![demo](https://raw.githubusercontent.com/bchiang7/v4/master/src/images/demo.png)
+![demo](https://raw.githubusercontent.com/impeekay/portfolio/master/src/images/demo.png)
 
 ## 🚨 Forking this repo (please read!)
 
-Many people have contacted me asking me if they can use this code for their own website, and the answer to that question is usually **yes, with attribution**.
+The author value's keeping their site open source, but as we all know, _**plagiarism is bad**_. It's always disheartening whenever they find that someone has copied their site without giving them credits for the same. They would have spent a non-trivial amount of effort building and designing this website, and was good enough to open source it! All they ask of you all is to not claim their effort as your own.
 
-I value keeping my site open source, but as you all know, _**plagiarism is bad**_. It's always disheartening whenever I find that someone has copied my site without giving me credit. I spent a non-trivial amount of effort building and designing this iteration of my website, and I am proud of it! All I ask of you all is to not claim this effort as your own.
-
-Please also note that I did not build this site with the intention of it being a starter theme, so if you have questions about implementation, please refer to the [Gatsby docs](https://www.gatsbyjs.org/docs/).
-
-### TL;DR
-
-Yes, you can fork this repo. Please give me proper credit by linking back to [brittanychiang.com](https://brittanychiang.com). Thanks!
+But, yes, you can fork this repo. Please give the author proper credit by linking back to [brittanychiang.com](https://brittanychiang.com) or [github repo](https://github.com/bchiang7/v4). Thanks!
 
 ## 🛠 Installation & Set Up
 

@@ -1,19 +1,22 @@
 ---
 title: 'About Me'
-avatar: './me.jpg'
+avatar: './pk.jpg'
 skills:
+  - Ruby
+  - Rails
+  - Python
+  - Java
   - JavaScript (ES6+)
-  - HTML & (S)CSS
   - React
-  - Vue
   - Node.js
-  - WordPress
+  - IoT
+  - Docker
 ---
 
-Hello! I'm Brittany, a software engineer based in Boston, MA.
+Hello! I'm Pavan, a software engineer based in Bengaluru, KA.
 
-I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between. My goal is to always build products that provide pixel-perfect, performant experiences.
+I enjoy engineering things that adds value to the business, whether that be application engineering, data engineering or includes any of the domain. I believe in being agile and outcome oriented which brings in part of the success. My goal is to always build products that provide performant experiences and brings in value to the user.
 
-Shortly after graduating from [Northeastern University](https://www.ccis.northeastern.edu/), I joined the engineering team at [Upstatement](https://www.upstatement.com/) where I work on a wide variety of interesting and meaningful projects on a daily basis.
+Will shortly graduate from [K.S Institute of Technology](https://www.ksit.ac.in/), But I've been a part of the engineering team at [Syook](https://www.syook.com/) where I work on a wide variety of interesting and meaningful projects on a daily basis (Post college hours.😇).
 
 Here are a few technologies I've been working with recently:
