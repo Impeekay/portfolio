@@ -3,7 +3,7 @@ module.exports = {
   siteDescription:
     'Pavan Kumar is a software engineer based in Bengaluru, KA who specializes in building and designing exceptional applications, and everything needed for that.',
   siteKeywords:
-    'Pavan Kumar, Pavan, Kumar, impeekay, itspavan, software engineer, front-end engineer, web developer, javascript, bengaluru',
+    'Pavan Kumar, Pavan Kumar D, Pavan, Kumar, impeekay, github, itspavan, software engineer, front-end engineer, web developer, ruby, python, rails, docker, bangalore, Engineer, javascript, bengaluru, bangalore, karnataka, India',
   siteUrl: 'https://itspavan.dev',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-167473038-1',
