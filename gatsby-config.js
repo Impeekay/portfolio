@@ -144,5 +144,8 @@ module.exports = {
         trackingId: config.googleAnalyticsID,
       },
     },
+    {
+      resolve: 'gatsby-plugin-no-sourcemaps',
+    },
   ],
 };
