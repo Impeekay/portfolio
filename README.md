@@ -6,8 +6,8 @@
   Website code for <a href="https://itspavan.dev" target="_blank">itspavan.dev</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>, Using the theme from <a href="https://github.com/bchiang7/v4" target="_blank">bchiang7</a>
 </p>
 <p align="center">
-  <a href="https://app.netlify.com/sites/brittanychiang/deploys" target="_blank">
-    <img src="https://api.netlify.com/api/v1/badges/1963b488-7b78-48c9-9e2d-6fb5e47ab3af/deploy-status" alt="Netlify Status" />
+  <a href="https://app.netlify.com/sites/itspavan/deploys" target="_blank">
+    <img src="https://api.netlify.com/api/v1/badges/d8b7372b-2ed6-4488-874d-af8599928022/deploy-status" alt="Netlify Status" />
   </a>
 </p>
 
