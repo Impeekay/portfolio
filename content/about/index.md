@@ -12,6 +12,8 @@ skills:
   - IoT
   - Docker
   - Docker Swarm
+  - Microsoft Azure
+  - AWS
 ---
 
 Hello! I'm Pavan, a software engineer based in Bengaluru, KA.

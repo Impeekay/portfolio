@@ -7,4 +7,5 @@ range: 'Jul 2020 - Present'
 url: 'https://syook.com/'
 ---
 
-- Started recently, looking forward to building exciting tech.
+- Scaled the existing rules engine to accomodate the spike in 10x loads.
+- Rewriting/Migrating the existing hardware code from "C" to "python".
